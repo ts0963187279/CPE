@@ -1,0 +1,6 @@
+#makefile
+makefile
+#exe
+*.exe
+#emacs ~
+*~
